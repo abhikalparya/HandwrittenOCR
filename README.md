@@ -11,6 +11,10 @@ This project encompasses the development of an end-to-end system that combines O
 - **Text Correction Module:** Develop a module to correct spelling and grammar errors in the extracted text.
 - **Integration and Testing:** Integrate the OCR and text correction modules into a cohesive system and thoroughly test its functionality and accuracy.
 
+## Implementation
+
+The implementation of the Image-to-Text Conversion and Text Correction System can be found here: [IPYNB File](https://github.com/abhikalparya/HandwrittenOCR/blob/main/handwriting-ocr.ipynb)
+
 ## Model Architecture
 
 ![model-graph](https://github.com/abhikalparya/HandwrittenOCR/assets/81465377/a5063d82-3689-4cc1-bf43-669a1f202f2e)
