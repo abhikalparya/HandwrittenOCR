@@ -15,6 +15,13 @@ This project encompasses the development of an end-to-end system that combines O
 
 ![model-graph](https://github.com/abhikalparya/HandwrittenOCR/assets/81465377/a5063d82-3689-4cc1-bf43-669a1f202f2e)
 
+## Text Correction Module
+
+The text correction module is designed to enhance the accuracy and readability of the extracted text by correcting spelling and grammar errors. 
+
+The Text Correction Module is implemented as a set of Python functions that utilize external libraries for spell checking and grammar checking. These functions are invoked within the prediction pipeline after text extraction from images. The corrected text is then displayed alongside the original and predicted text for comparison and validation.
+
+
 
 ## Validation Sample Output
 
