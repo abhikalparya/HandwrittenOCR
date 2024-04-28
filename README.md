@@ -18,6 +18,8 @@ This project encompasses the development of an end-to-end system that combines O
 
 ## Validation Sample Output
 
+<img width="571" alt="validation_evaluation" src="https://github.com/abhikalparya/HandwrittenOCR/assets/81465377/22a95e34-bfa3-4caf-a3b7-f550a177bab1">
+
 
 ## Conclusion
 The Image-to-Text Conversion and Text Correction System aims to provide a robust and efficient solution for converting written text from images into digital format while ensuring accuracy and readability through automated spelling and grammar corrections. By leveraging OCR and NLP techniques, the system offers a versatile tool for various applications, including document digitization, text extraction from images, and content correction.
