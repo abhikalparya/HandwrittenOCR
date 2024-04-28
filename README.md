@@ -13,3 +13,4 @@ This project encompasses the development of an end-to-end system that combines O
 
 ## Model Architecture
 
+![model-graph](https://github.com/abhikalparya/HandwrittenOCR/assets/81465377/a5063d82-3689-4cc1-bf43-669a1f202f2e)
